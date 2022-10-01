@@ -1,2 +1,2 @@
 # Walking-crawling-machine
-Project Walking-crawling machine (Research)
+Project Walking-crawling machine (research engineering project )
