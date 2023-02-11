@@ -1,0 +1,11 @@
+D:\Programming\Walking-crawling-machine\Mathematical model of the rocker mechanism\Mathematical model of the rocker mechanism\bin\Debug\Mathematical model of the rocker mechanism.exe.config
+D:\Programming\Walking-crawling-machine\Mathematical model of the rocker mechanism\Mathematical model of the rocker mechanism\bin\Debug\Mathematical model of the rocker mechanism.exe
+D:\Programming\Walking-crawling-machine\Mathematical model of the rocker mechanism\Mathematical model of the rocker mechanism\bin\Debug\Mathematical model of the rocker mechanism.pdb
+D:\Programming\Walking-crawling-machine\Mathematical model of the rocker mechanism\Mathematical model of the rocker mechanism\obj\Debug\Mathematical model of the rocker mechanism.csproj.AssemblyReference.cache
+D:\Programming\Walking-crawling-machine\Mathematical model of the rocker mechanism\Mathematical model of the rocker mechanism\obj\Debug\Mathematical model of the rocker mechanism.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Walking-crawling-machine\Mathematical model of the rocker mechanism\Mathematical model of the rocker mechanism\obj\Debug\Mathematical_model_of_the_rocker_mechanism.Properties.Resources.resources
+D:\Programming\Walking-crawling-machine\Mathematical model of the rocker mechanism\Mathematical model of the rocker mechanism\obj\Debug\Mathematical model of the rocker mechanism.csproj.GenerateResource.cache
+D:\Programming\Walking-crawling-machine\Mathematical model of the rocker mechanism\Mathematical model of the rocker mechanism\obj\Debug\Mathematical model of the rocker mechanism.csproj.CoreCompileInputs.cache
+D:\Programming\Walking-crawling-machine\Mathematical model of the rocker mechanism\Mathematical model of the rocker mechanism\obj\Debug\Mathematical model of the rocker mechanism.exe
+D:\Programming\Walking-crawling-machine\Mathematical model of the rocker mechanism\Mathematical model of the rocker mechanism\obj\Debug\Mathematical model of the rocker mechanism.pdb
+D:\Programming\Walking-crawling-machine\Mathematical model of the rocker mechanism\Mathematical model of the rocker mechanism\obj\Debug\Mathematical_model_of_the_rocker_mechanism.Form1.resources
